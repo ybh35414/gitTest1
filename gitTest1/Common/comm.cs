@@ -15,8 +15,10 @@ namespace gitTest1.Common
 
 		public void Test2()
 		{
+			Console.WriteLine("1");
 			Console.WriteLine("2");
-			Console.WriteLine("2");
+			Console.WriteLine("3");
+			Console.WriteLine("4");
 		}
 
 	}
