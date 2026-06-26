@@ -21,7 +21,7 @@ namespace gitTest1
 		{
 			//gkggkgk
 			//MessageBox.Show("유병희 수정함 V1");
-			MessageBox.Show("유병희 수정함 V2 장창욱 2");
+			MessageBox.Show("유병희 수정함 V2 장창욱 22");
 			MessageBox.Show("유병희 수정함 V3");
 		}
 	}
