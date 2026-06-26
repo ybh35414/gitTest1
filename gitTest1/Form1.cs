@@ -28,6 +28,7 @@ namespace gitTest1
 			var comm1 = new comm();
 			comm1.Test1();
 
+			string aaa = "서버 분기 1개 추가";
 		}
 	}
 }
