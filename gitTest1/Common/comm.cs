@@ -10,7 +10,7 @@ namespace gitTest1.Common
 	{
 		public void Test1()
 		{
-			Console.WriteLine("11");
+			Console.WriteLine("comm1 V1");
 		}
 
 		public void Test2()
