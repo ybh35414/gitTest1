@@ -16,5 +16,12 @@ namespace gitTest1
 		{
 			InitializeComponent();
 		}
+
+		private void button1_Click(object sender, EventArgs e)
+		{
+			MessageBox.Show("유병희 수정함 V1");
+
+
+		}
 	}
 }
