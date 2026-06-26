@@ -20,6 +20,7 @@ namespace gitTest1
         private void button1_Click(object sender, EventArgs e)
         {
             string aaa = "";
+            string bbb = "유";
         }
     }
 }
